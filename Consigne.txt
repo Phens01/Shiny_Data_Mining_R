@@ -1,0 +1,22 @@
+Le but principal est d’appliquer les notions vues en cours sur des cas réels. Pour cela chaque groupe
+devra faire un exposé (environ 10 minutes) sur le travail fait. L’exposé devra expliquer les codes R
+pour permettant de répondre à des questions et de commenter brièvement les résultats obtenus de
+ces commandes R.
+
+1. Supprimer les attributs que vous jugez pas importants pour la tâche à effectuer. Justifier
+cette suppression.
+
+2. Proposer une méthode pour remplacer les valeurs manquantes et justifier, appliquer cette
+méthode sur les données
+
+3. Faire une analyse statistique (descriptive) des données, et commenter
+
+4. Extraire les règles ayant pour conclusion la classe (étiquette), afficher et commenter les n (5)
+meilleures.
+
+5. Utiliser au moins quatre approches (réseau de neurones, arbres de décision,…) de
+classification supervisée pour construire des modèles permettant de classer ces données.
+Montrer et commenter les résultats obtenus (matrice de confusion, précision,…)
+
+6. Supprimer l’attribut classe, et faire une classification non supervisée avec le reste (en
+utilisant kmeans et la classification hiérarchique)
